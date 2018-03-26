@@ -1,4 +1,8 @@
-# 基于 hsv 的马赛克拼图效果  
+# 基于 hsv 的马赛克拼图效果  
+连接：利用爬虫技术能做到哪些很酷很有趣很有用的事情？ - 今晚的风儿很喧嚣的回答 - 知乎
+https://www.zhihu.com/question/27621722/answer/269085034
+百度网盘：https://pan.baidu.com/s/1eRMJBUy
+备用连接：luoyihan365 img.tar 2018-3-26 840.98mb
 <br>
 
 知乎链接：[利用爬虫技术能做到哪些很酷很有趣很有用的事情？](https://www.zhihu.com/question/27621722/answer/269085034)
